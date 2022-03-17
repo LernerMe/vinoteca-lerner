@@ -2,20 +2,16 @@ import logo from './logo.svg';
 import './App.css';
 import FunctionalComponent from './components/types/FunctionalComponent';
 import NavBar from './components/NavBar';
-
-
-const persona = {
-  nombre: 'John',
-  apellido: 'Doe',
-};
+import ItemListContainer from './components/ItemListContainer';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <div>
-        <NavBar/>
-          <FunctionalComponent {...persona} />
+          <NavBar />
+          <ItemListContainer />
+          
         </div>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
