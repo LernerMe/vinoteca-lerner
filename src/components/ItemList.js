@@ -1,4 +1,4 @@
-const itemList=[
+const ItemList=[
     {
         
         nombre:'Salentein Numina Cabernet Franc 750',
@@ -46,3 +46,5 @@ const itemList=[
 
 
 ]
+
+module.exports = ItemList
