@@ -6,6 +6,7 @@ const ItemList=[
         variedad: 'Cabernet Franc',
         bodega: 'Salentein',
         Origen: 'Mendoza',
+        stock: '8',
     },
 
     {
@@ -15,6 +16,7 @@ const ItemList=[
         variedad: 'Blend',
         bodega: 'Rutini Wines',
         Origen: 'Mendoza',
+        stock: '10',
     },
 
     {
@@ -24,6 +26,7 @@ const ItemList=[
         variedad: 'Blend',
         bodega: 'Catena Zapata',
         Origen: 'Mendoza',
+        stock: '3',
     },
 
     {
@@ -33,6 +36,7 @@ const ItemList=[
         variedad: 'Syrah',
         bodega: 'Finca Las Moras',
         Origen: 'Mendoza',
+        stock: '0',
     },
 
     {
@@ -42,6 +46,7 @@ const ItemList=[
         variedad: 'Merlot',
         bodega: 'Rosell Boher',
         Origen: 'Mendoza',
+        stock: '5',
     },
 
 
